@@ -18,7 +18,7 @@ This is a CSS animation project that represents a giant wheel with colored cabin
 - CSS3
 
 **How to View:**
-You can view the project of the giant wheel [here](insert-link-of-project), try the animation and explore the source code.
+You can view the project of the giant wheel [here]((https://theedusantos.github.io/project-Ferris-Wheel/)), try the animation and explore the source code.
 
 ====================================================================================================
 
@@ -40,5 +40,5 @@ Este é um projeto de animação em CSS que representa uma roda gigante com cabi
 - CSS3
 
 **Como Visualizar:**
-Você pode conferir o projeto da roda gigante [aqui](inserir-link-do-projeto), experimentar a animação e explorar o código-fonte.
+Você pode conferir o projeto da roda gigante [aqui]((https://theedusantos.github.io/project-Ferris-Wheel/)https://theedusantos.github.io/project-Ferris-Wheel/), experimentar a animação e explorar o código-fonte.
 
